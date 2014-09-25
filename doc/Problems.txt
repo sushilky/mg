@@ -1,0 +1,6 @@
+Programming Problems to Master:
+===============================
+
+1. Dynamic Programming
+2. Greedy Technique
+

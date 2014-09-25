@@ -1,0 +1,9 @@
+Data Structure to Design:
+=========================
+
+1. Hashing
+2. Heaps
+3. Understanding what Data Structures are available in STL
+    a) Understand the Time/Space complexity
+    b) Understand effective use of them
+

@@ -1,0 +1,8 @@
+Algorithms to Master:
+======================
+
+1. Understanding what algorithms are available in STL
+    a) Understand the Time/Space complexity
+    b) Understand effective use of them
+2. Map Algorithms: Specifically Shortest Path related
+
